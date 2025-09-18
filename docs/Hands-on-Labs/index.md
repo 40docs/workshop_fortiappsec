@@ -1,4 +1,4 @@
-# FortiAppSec Cloud: Security, Availability, Performance
+# FortiAppSec Cloud
 
 ![fortiappsec](https://github.com/user-attachments/assets/42dc2c89-8dfe-4984-8856-12f4e8e3fae9)
 
